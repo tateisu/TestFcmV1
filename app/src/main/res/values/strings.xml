@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestFcmV1</string>
+    <string name="fcm_token">FCM device token</string>
+    <string name="copy">copy</string>
+</resources>

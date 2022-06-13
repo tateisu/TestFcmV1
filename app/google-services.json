@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185585200379",
+    "project_id": "testfcmv1",
+    "storage_bucket": "testfcmv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185585200379:android:ef4ceec9c33dbcd369945e",
+        "android_client_info": {
+          "package_name": "jp.juggler.testfcmv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185585200379-97uk0usa45s0t010dom6kp6loij159t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.juggler.testfcmv1",
+            "certificate_hash": "8f52970fcdf3797a7ae38eaaf917075f17501833"
+          }
+        },
+        {
+          "client_id": "185585200379-2m0o0a7e1fp1lncphkso7900m0ll4i15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARARJarHE44OU6IW-gIojgjnlJYO3AYCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185585200379-2m0o0a7e1fp1lncphkso7900m0ll4i15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
